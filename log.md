@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 27
+### Day 0: June 27, 2020
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
